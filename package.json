@@ -1,12 +1,12 @@
 {
-  "author": "Andreas Flack",
+  "author": "Cody Huang",
   "name": "scorekeeper",
   "version": "0.0.11",
-  "homepage": "https://flack.github.com/scorekeeper",
-  "bugs": "https://github.com/flack/scorekeeper/issues",
+  "homepage": "https://blackwhale-knight.github.com/scorekeeper",
+  "bugs": "https://github.com/blackwhale-knight/scorekeeper/issues",
   "repository": {
     "type": "git",
-    "url": "git@github.com:flack/scorekeeper.git"
+    "url": "git@github.com:blackwhale-knight/scorekeeper.git"
   },
   "dependencies": {
     "@bower_components/angular": "angular/bower-angular#^1.6",
